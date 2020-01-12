@@ -11,8 +11,6 @@ class Solution:
 #a = set('qwertyuiop')
 #b = set('asdfghjkl')
 #c = set('dad')
-# a&c
-#set([])
 #a&c == c
 #False
 #b&c == c
