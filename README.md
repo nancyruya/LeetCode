@@ -1,2 +1,2 @@
 # LeetCodeEasy
-This folder is for me to update LeetCode easy problem solutions.
+This folder is for me to update LeetCode problem solutions.
